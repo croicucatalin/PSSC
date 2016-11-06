@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Models.Professor
 {
-    //Entity
+    //Entity 
     public class Professor
     {
 
